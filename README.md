@@ -26,8 +26,8 @@ Aspiring **Cybersecurity Engineer / Penetration Tester** with hands-on experienc
 *  Cybersecurity Concepts (Vulnerabilities, Threats, Exploits).
 *  Penetration Testing Labs (Practical ethical hacking exercises).
 *  Command Line Usage (Terminal operations, remote access).
-*  Wed Development (HTML,CSS & JAVASCRIPT).
-* Python (basic use in security tasks).
+*  Web Development (HTML,CSS & JAVASCRIPT).
+*  Python (basic use in security tasks).
 
 ###  Other Skills
 
