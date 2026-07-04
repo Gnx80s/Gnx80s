@@ -79,9 +79,6 @@ A self-directed, hands-on project series focused on Network Security, Vulnerabil
 ---
 
 ##  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnx80s&layout=compact&theme=tokyonight&langs_count=10&hide_progress=false" alt="Top Langs" />
-</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -89,9 +86,6 @@ A self-directed, hands-on project series focused on Network Security, Vulnerabil
   </a>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&layout=compact&theme=tokyonight" alt="Quote" />
-</p>
 
 ---
 
