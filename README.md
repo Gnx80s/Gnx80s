@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Gnx80s&color=00FF00" alt="Profile Views" />
 </p>
 
-> You might want to switch to dark mode :)
+> If you're reading this in light mode, we need to talk. :|
 
 ---
 
